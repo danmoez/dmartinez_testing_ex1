@@ -1,7 +1,7 @@
 # dmartinez_testing_ex1
 This Repo is meant to cover Excersice for the testing test. Technologies used:
 
-CodeceptJS - SuperCharged End 2 End Testing JS Framework
+CodeceptJS - SuperCharged End 2 End Testing JS Framework - https://codecept.io/
 Selenium WebDriver
 BDD
 
